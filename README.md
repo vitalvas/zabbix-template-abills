@@ -2,7 +2,16 @@
 
 This template only checked on 3.0.x and 3.2.x versions.
 
-## Install
+## What is he doing?
+
+Collects and draws graphics.
+
+ * NAS online (users and sessions)
+ * Total count online with percent
+ * Other :)
+
+
+## Install on zabbix server
 
 ```
 apt install unixodbc libodbc1 libmyodbc odbcinst
